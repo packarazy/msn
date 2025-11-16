@@ -24,6 +24,7 @@ Instalación de la dependencia:
 
 ```bash
 pip install pyTelegramBotAPI
+```
 
 
 ---
