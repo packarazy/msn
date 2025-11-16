@@ -103,7 +103,7 @@ def guardar_archivo(message):
             f.write(downloaded)
 
         bot.reply_to(message, f"Archivo guardado como {file_name}")
-        print(message, f"Archivo guardado como {filename}")
+        print(message, f"Archivo resivido y guardado guardado ")
 
 
 
