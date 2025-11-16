@@ -23,6 +23,7 @@ Este script de Python permite recibir mensajes de texto y archivos a través de 
 Instalación de la dependencia:
 
 ```bash
+git clone https://github.com/packarazy/msn.git
 pip install pyTelegramBotAPI
 ```
 
